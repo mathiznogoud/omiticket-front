@@ -1,0 +1,31 @@
+html,body{
+    font-family: 'Roboto', sans-serif !important;
+    font-size: 16px !important;
+    height: 100%;
+    background-color : #f2f2f2
+ }
+
+
+
+ .SharpButton {
+     border-radius: 0px;
+     width: 100%;
+ }
+
+ .Sharp {
+     border-radius: 0px;
+ }
+
+ .GhostButton { 
+    background-color : 'white';
+    border-color: grey;
+    border-width: 2px;
+ }
+
+ .WordBreakWrapper { 
+    overflow-wrap : break-word;
+ }
+
+ .NoLeftBorderButton {
+     border-left-width: 0px !important;
+ }
